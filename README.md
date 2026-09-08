@@ -9,13 +9,16 @@ Statische Unternehmenswebsite für die Wesertaler Personaldienstleistungen GmbH 
 ├── index.html          # Startseite
 ├── impressum.html      # Impressum
 ├── datenschutz.html    # Datenschutzerklärung
+├── cookie-richtlinie.html # Cookie-Richtlinie (EU)
 ├── robots.txt          # Crawler-Anweisungen (Google + KI-Bots)
 ├── sitemap.xml         # Seitenübersicht für Suchmaschinen
 ├── llms.txt            # KI-Datenblatt (ChatGPT, Perplexity & Co.)
 ├── css/
-│   └── shared.css      # Gemeinsame Styles (Navigation, Footer, Rechtstexte)
+│   ├── shared.css      # Gemeinsame Styles (Navigation, Footer, Rechtstexte)
+│   └── cookie-consent.css
 ├── js/
-│   └── nav.js          # Mobile Navigation
+│   ├── nav.js          # Mobile Navigation
+│   └── cookie-consent.js
 ├── Doku SEO GEO/
 │   └── Wesertaler-PDL_Dokumentation-SEO-GEO.txt
 └── README.md
@@ -49,7 +52,7 @@ npx serve .
   - Ggf. verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 - [ ] **Datenschutzerklärung rechtlich prüfen lassen** – Text basiert auf der alten Privacy-Seite (Stand 2020), wurde sprachlich bereinigt und E-Mail-Adressen aktualisiert, sollte aber von einem Anwalt oder Datenschutzbeauftragten geprüft werden
 - [ ] **Seite „AÜG-Erlaubnis“** – im Footer verlinkt, existiert noch nicht
-- [ ] **Cookie-Banner / Consent** – falls Tracking-Cookies oder externe Dienste (Analytics) eingesetzt werden
+- [x] **Cookie-Banner / Consent** – DSGVO-Banner nach Akquise-Helfer-Vorbild (`js/cookie-consent.js`, `cookie-richtlinie.html`)
 - [ ] **Datenschutz-Link im Kontaktbereich** – optional: Hinweis mit Link zur Datenschutzerklärung bei direkter Kontaktaufnahme
 
 ### Bilder & Branding

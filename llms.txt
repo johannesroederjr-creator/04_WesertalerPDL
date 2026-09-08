@@ -55,6 +55,7 @@ Wesertaler PDL vermittelt Unternehmen aus Industrie und Logistik motivierte Arbe
 - [Startseite](https://www.wesertaler-personaldienstleistungen.de/)
 - [Impressum](https://www.wesertaler-personaldienstleistungen.de/impressum.html)
 - [Datenschutz](https://www.wesertaler-personaldienstleistungen.de/datenschutz.html)
+- [Cookie-Richtlinie](https://www.wesertaler-personaldienstleistungen.de/cookie-richtlinie.html)
 
 ## Optional
 

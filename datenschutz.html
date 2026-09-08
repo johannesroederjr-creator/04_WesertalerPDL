@@ -13,6 +13,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <link rel="stylesheet" href="css/shared.css">
+  <link rel="stylesheet" href="css/cookie-consent.css">
 </head>
 <body>
 
@@ -149,26 +150,14 @@
 
         <h2>Cookies</h2>
         <p>
-          Wir und unsere Partner können Cookies verwenden, wenn Sie unsere Website besuchen.
-          Cookies sind kleine Textdateien, die auf Ihrem Gerät gespeichert werden.
+          Beim ersten Besuch unserer Website erscheint ein Cookie-Banner. Details zu den
+          verwendeten Kategorien, externen Diensten und Ihren Wahlmöglichkeiten finden Sie
+          in unserer <a href="cookie-richtlinie.html">Cookie-Richtlinie</a>.
         </p>
-        <p>Arten von Cookies:</p>
-        <ul>
-          <li><strong>Sitzungscookies:</strong> werden nach Schließen des Browsers gelöscht</li>
-          <li><strong>Permanente Cookies:</strong> verbleiben für eine bestimmte Dauer auf Ihrem Gerät</li>
-          <li><strong>Drittanbieter-Cookies:</strong> von externen Diensten gesetzt, die auf unserer Seite eingebunden sind</li>
-        </ul>
         <p>
-          Cookies enthalten in der Regel keine direkt identifizierenden personenbezogenen Daten,
-          können aber mit von uns gespeicherten Daten verknüpft werden. Sie können Cookies
-          in Ihren Browsereinstellungen deaktivieren; dies kann die Funktionalität der Website einschränken.
-        </p>
-
-        <h2>Google Web Fonts</h2>
-        <p>
-          Zur einheitlichen Darstellung von Schriften kann diese Website Google Web Fonts nutzen.
-          Beim Aufruf wird eine Verbindung zu Google-Servern hergestellt. Weitere Informationen:
-          <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Datenschutzrichtlinien</a>
+          Wir speichern Ihre Einwilligung im localStorage Ihres Browsers
+          (Schlüssel: <code>wesertaler_pdl_cookie_consent</code>).
+          Analyse- und Marketing-Cookies setzen wir nicht ein.
         </p>
 
         <h2>Datenerfassung durch Dritte</h2>
@@ -263,6 +252,8 @@
           <ul>
             <li><a href="impressum.html">Impressum</a></li>
             <li><a href="datenschutz.html">Datenschutz</a></li>
+            <li><a href="#" data-cookie-settings>Cookie-Einstellungen</a></li>
+            <li><a href="cookie-richtlinie.html">Cookie-Richtlinie</a></li>
           </ul>
           <br>
           <h4>Kontakt</h4>
@@ -277,11 +268,13 @@
         <div class="footer-legal">
           <a href="impressum.html">Impressum</a>
           <a href="datenschutz.html">Datenschutz</a>
+          <a href="#" data-cookie-settings>Cookie-Einstellungen</a>
         </div>
       </div>
     </div>
   </footer>
 
   <script src="js/nav.js"></script>
+  <script src="js/cookie-consent.js" defer></script>
 </body>
 </html>

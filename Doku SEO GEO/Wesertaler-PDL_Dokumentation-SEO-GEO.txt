@@ -266,6 +266,30 @@ L) LLMS.TXT (Datenblatt speziell für KI-Modelle)
     Es verbessert aber die technische Vorbereitung deutlich.
 
 
+M) COOKIE-BANNER & COOKIE-RICHTLINIE (DSGVO)
+---------------------------------------------
+  Dateien:
+    · js/cookie-consent.js   → Banner-Logik (nach Akquise-Helfer-Vorbild)
+    · css/cookie-consent.css → Design in Wesertaler-Grün
+    · cookie-richtlinie.html → Ausführliche Cookie-Richtlinie
+
+  FUNKTION:
+    · Beim ersten Besuch erscheint unten ein Cookie-Banner
+    · Auswahl: Alle akzeptieren / Nur notwendige / Einstellungen
+    · Entscheidung wird im Browser gespeichert (localStorage)
+    · „Cookie-Einstellungen" im Footer öffnet die Auswahl jederzeit erneut
+    · Kein Marketing-Tracking (kein Google Analytics o. Ä.)
+
+  COOKIE-KATEGORIEN:
+    · Notwendig: Speicherung der Einwilligung
+    · Funktional: Externe Dienste (Font Awesome, externe Bilder)
+    · Analyse/Marketing: nicht eingesetzt
+
+  WARUM:
+    Gesetzliche Anforderung (DSGVO / TTDSG): Besucher müssen über Cookies
+    und externe Inhalte informiert werden und einwilligen können.
+
+
 ================================================================================
 TEIL 4: ÜBERSCHRIFTEN-STRUKTUR (FÜR TECHNIK-INTERESSIERTE)
 ================================================================================
@@ -325,6 +349,7 @@ TEIL 7: KURZ-ZUSAMMENFASSUNG FÜR DEN KUNDEN
     ✓ robots.txt – Crawler- und KI-Freigabe
     ✓ sitemap.xml – Seitenübersicht für Google
     ✓ llms.txt – KI-Datenblatt für ChatGPT, Perplexity & Co.
+    ✓ Cookie-Banner mit Einwilligung (DSGVO) + Cookie-Richtlinie
 
   Was der Kunde selbst tun kann:
   ------------------------------
@@ -347,6 +372,7 @@ TEIL 8: TECHNISCHE REFERENZ (FÜR DIENSTLEISTER)
 
   Geänderte / neue Dateien:
     index.html      → Startseite (SEO-Meta, Schema, Sitemap-Verweis)
+    cookie-richtlinie.html → Cookie-Richtlinie
     robots.txt      → Crawler-Anweisungen inkl. KI-Bots
     sitemap.xml     → Seitenübersicht
     llms.txt        → KI-Datenblatt
