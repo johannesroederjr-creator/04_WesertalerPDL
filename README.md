@@ -45,16 +45,16 @@ npx serve .
 - [ ] **Datenschutzerklärung rechtlich prüfen lassen** – Text basiert auf der alten Privacy-Seite (Stand 2020), wurde sprachlich bereinigt und E-Mail-Adressen aktualisiert, sollte aber von einem Anwalt oder Datenschutzbeauftragten geprüft werden
 - [ ] **Seite „AÜG-Erlaubnis“** – im Footer verlinkt, existiert noch nicht
 - [ ] **Cookie-Banner / Consent** – falls Tracking-Cookies oder externe Dienste (Analytics) eingesetzt werden
-- [ ] **Datenschutz-Link im Kontaktformular** – optional: Hinweis mit Link zur Datenschutzerklärung direkt am Formular
+- [ ] **Datenschutz-Link im Kontaktbereich** – optional: Hinweis mit Link zur Datenschutzerklärung bei direkter Kontaktaufnahme
 
 ### Bilder & Branding
 
 - [x] **Firmenlogo in Navigation** – `Logo_WPDL.jpg` eingebunden (Kontrast auf grünem Header ggf. noch bewerten)
 - [ ] **Logo optimieren** – falls nötig: PNG mit transparentem Hintergrund oder weißer Rahmen
 - [ ] **Headerbild / Hero-Foto** – aktuell Unsplash-Platzhalter; echtes Unternehmens- oder Produktionsfoto einbinden
-- [ ] **Team-Fotos** – Michael Uhde, Liviu-Ionut Tudor (Platzhalter), Markus Westermann: echte Portraits bereitstellen
+- [x] **Team-Fotos** – Michael Uhde, Liviu-Ionut Tudor, Markus Westermann eingebunden
 - [ ] **Weitere Bilder** – Produktion, Logistik, Unterkunft, Fuhrpark (sofern gewünscht)
-- [ ] **Favicon** – `.ico` / `.svg` für Browser-Tab
+- [x] **Favicon** – aus Logo abgeleitet (`favicon.ico`, `favicon.svg`, PNG-Varianten)
 
 ### Inhalte & Texte
 
@@ -65,7 +65,7 @@ npx serve .
 
 ### Technik & Deployment
 
-- [ ] **Kontaktformular-Backend** – aktuell `mailto:`-Link; für zuverlässigen Versand z. B. Formspree, Netlify Forms oder eigenes PHP/Node-Backend einrichten
+- [x] **Kontaktformular entfernt** – Kontakt nur noch per Telefon/E-Mail
 - [ ] **URL-Weiterleitungen** – alte URLs `/privacy` → `/datenschutz.html` und `/impressum` → `/impressum.html` auf dem Server einrichten
 - [ ] **HTTPS & Domain** – Deployment auf `www.wesertaler-personaldienstleistungen.de` konfigurieren
 - [ ] **CSS auslagern** – `index.html` enthält noch Inline-Styles; langfristig in `css/shared.css` oder `css/main.css` konsolidieren

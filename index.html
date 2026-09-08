@@ -12,6 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.wesertaler-personaldienstleistungen.de/">
 
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
   <style>
@@ -84,6 +90,13 @@
       transition: color .2s;
     }
     .nav-links a:hover { color: var(--white); }
+    .nav-phone {
+      display: inline-flex; align-items: center; gap: 8px;
+      color: var(--white) !important; font-weight: 700 !important;
+      white-space: nowrap;
+    }
+    .nav-phone i { font-size: .85rem; opacity: .9; }
+    .nav-phone:hover { color: rgba(255,255,255,.85) !important; }
     .nav-cta {
       background: var(--brand) !important; color: var(--white) !important;
       padding: 8px 18px !important; border-radius: var(--r-sm) !important;
@@ -327,7 +340,7 @@
     }
     .t-card:hover { box-shadow: var(--shadow-xl); transform: translateY(-4px); }
     .t-photo {
-      width: 100%; height: 250px;
+      width: 100%; height: 280px;
       object-fit: cover; object-position: top center;
     }
     .t-info { padding: 26px; }
@@ -417,8 +430,7 @@
     /* ===== KONTAKT ===== */
     .kontakt { background: var(--gray50); }
     .kontakt-grid {
-      display: grid; grid-template-columns: 1fr 1.45fr;
-      gap: 56px; align-items: start;
+      max-width: 640px; margin: 0 auto;
     }
     .k-info h3 { font-size: 1.28rem; margin-bottom: 14px; }
     .k-info p  { color: var(--gray600); line-height: 1.72; margin-bottom: 28px; }
@@ -433,45 +445,6 @@
     .k-item-text strong { display: block; color: var(--gray900); margin-bottom: 2px; }
     .k-item-text a { color: var(--g700); transition: color .2s; }
     .k-item-text a:hover { color: var(--g500); }
-    .k-form {
-      background: var(--white); border-radius: var(--r-xl);
-      padding: 40px; box-shadow: var(--shadow-lg);
-    }
-    .k-form h3 { font-size: 1.28rem; margin-bottom: 26px; }
-    .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
-    .form-group { margin-bottom: 14px; }
-    .form-group label {
-      display: block; font-size: .86rem; font-weight: 600;
-      color: var(--gray700); margin-bottom: 5px;
-    }
-    .form-group input,
-    .form-group select,
-    .form-group textarea {
-      width: 100%; padding: 11px 15px;
-      border: 1.5px solid var(--gray200); border-radius: var(--r-sm);
-      font-family: var(--font); font-size: .94rem;
-      color: var(--gray900); background: var(--white);
-      transition: border-color .2s, box-shadow .2s; outline: none;
-    }
-    .form-group input:focus,
-    .form-group select:focus,
-    .form-group textarea:focus {
-      border-color: var(--g500);
-      box-shadow: 0 0 0 3px rgba(46,145,88,.12);
-    }
-    .form-group textarea { resize: vertical; min-height: 110px; }
-    .form-submit {
-      width: 100%; padding: 15px; background: var(--g700);
-      color: white; border: none; border-radius: var(--r-md);
-      font-family: var(--font); font-size: 1rem; font-weight: 700;
-      cursor: pointer; transition: background .2s, transform .15s;
-      display: flex; align-items: center; justify-content: center; gap: 10px;
-    }
-    .form-submit:hover { background: var(--g600); transform: translateY(-2px); }
-    .form-note {
-      font-size: .78rem; color: var(--gray500);
-      text-align: center; margin-top: 12px;
-    }
 
     /* ===== FOOTER ===== */
     .footer {
@@ -540,8 +513,6 @@
       .vorteile-grid { grid-template-columns: 1fr; }
       .team-grid { grid-template-columns: 1fr; max-width: 400px; }
       .ref-grid { grid-template-columns: 1fr; }
-      .form-row { grid-template-columns: 1fr; }
-      .k-form { padding: 28px 20px; }
       .footer-grid { grid-template-columns: 1fr; gap: 28px; }
     }
   </style>
@@ -619,6 +590,7 @@
         <li><a href="#mitarbeiter">Mitarbeiter</a></li>
         <li><a href="#team">Team</a></li>
         <li><a href="#faq">FAQ</a></li>
+        <li><a href="tel:+4955749459062" class="nav-phone"><i class="fa-solid fa-phone"></i> 05574 9459062</a></li>
         <li><a href="#kontakt" class="nav-cta">Jetzt anfragen</a></li>
       </ul>
       <button class="nav-toggle" id="navToggle" aria-label="Menü öffnen">
@@ -911,7 +883,7 @@
         <div class="t-card">
           <img
             class="t-photo"
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80"
+            src="michael_uhde_GF_Web.png"
             alt="Michael Uhde – Geschäftsführer Wesertaler Personaldienstleistungen"
             loading="lazy"
           >
@@ -946,7 +918,7 @@
         <div class="t-card">
           <img
             class="t-photo"
-            src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80"
+            src="liviu_projektleiter_Web.png"
             alt="Liviu-Ionut Tudor – Projektleiter Wesertaler Personaldienstleistungen"
             loading="lazy"
           >
@@ -970,7 +942,7 @@
         <div class="t-card">
           <img
             class="t-photo"
-            src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=600&q=80"
+            src="markus_westermann_GF_Web.png"
             alt="Markus Westermann – Geschäftsführer Wesertaler PDL"
             loading="lazy"
           >
@@ -1155,8 +1127,8 @@
             <span class="faq-icon"><i class="fa-solid fa-chevron-down"></i></span>
           </button>
           <div class="faq-a">
-            Einfach anrufen oder das Kontaktformular ausfüllen. 
-            Michael Uhde meldet sich persönlich und schnell zurück. 
+            Einfach anrufen oder per E-Mail melden.
+            Michael Uhde klärt in einem kurzen Gespräch, ob und wie wir helfen können. 
             Im ersten Gespräch klären wir Ihren Bedarf, die Tätigkeiten, 
             den Zeitraum und die Anzahl der Mitarbeiter – 
             dann erhalten Sie ein konkretes Angebot.
@@ -1172,10 +1144,9 @@
     <div class="container">
       <div class="sec-header">
         <p class="sec-label">Kontakt</p>
-        <h2 class="sec-title">Jetzt Anfrage stellen</h2>
+        <h2 class="sec-title">Jetzt Kontakt aufnehmen</h2>
         <p class="sec-sub">
-          Kein Formular-Dschungel. Schildern Sie kurz Ihren Bedarf – 
-          Michael Uhde meldet sich persönlich bei Ihnen.
+          Rufen Sie an oder schreiben Sie uns – Michael Uhde meldet sich persönlich bei Ihnen.
         </p>
       </div>
       <div class="kontakt-grid">
@@ -1219,57 +1190,6 @@
               </div>
             </div>
           </div>
-        </div>
-
-        <div class="k-form">
-          <h3>Anfrage senden</h3>
-          <form
-            action="mailto:m.uhde@wesertaler-personaldienstleistungen.de"
-            method="post"
-            enctype="text/plain"
-            onsubmit="return handleForm(event)"
-          >
-            <div class="form-row">
-              <div class="form-group">
-                <label for="name">Ihr Name *</label>
-                <input type="text" id="name" name="name" placeholder="Max Mustermann" required>
-              </div>
-              <div class="form-group">
-                <label for="firma">Unternehmen *</label>
-                <input type="text" id="firma" name="firma" placeholder="Mustermann GmbH" required>
-              </div>
-            </div>
-            <div class="form-row">
-              <div class="form-group">
-                <label for="tel">Telefon *</label>
-                <input type="tel" id="tel" name="tel" placeholder="0521 123456" required>
-              </div>
-              <div class="form-group">
-                <label for="email">E-Mail</label>
-                <input type="email" id="email" name="email" placeholder="max@firma.de">
-              </div>
-            </div>
-            <div class="form-group">
-              <label for="bereich">Einsatzbereich</label>
-              <select id="bereich" name="bereich">
-                <option value="">Bitte wählen …</option>
-                <option>Verpackung & Kommissionierung</option>
-                <option>Produktion & Montage</option>
-                <option>Lager & Logistik</option>
-                <option>Sortier- & Kontrolltätigkeiten</option>
-                <option>Saisoneinsatz</option>
-                <option>Sonstiges / noch unklar</option>
-              </select>
-            </div>
-            <div class="form-group">
-              <label for="nachricht">Kurze Beschreibung Ihres Bedarfs *</label>
-              <textarea id="nachricht" name="nachricht" placeholder="Wie viele Mitarbeiter? Ab wann? Wie lange? Welche Tätigkeiten?" required></textarea>
-            </div>
-            <button type="submit" class="form-submit">
-              <i class="fa-solid fa-paper-plane"></i> Anfrage absenden
-            </button>
-            <p class="form-note">Wir melden uns in der Regel innerhalb von 24 Stunden. Keine Werbung, keine Weitergabe Ihrer Daten.</p>
-          </form>
         </div>
 
       </div>
@@ -1375,14 +1295,6 @@
       }
     });
 
-    // Form handler (simple feedback, real mailto)
-    function handleForm(e) {
-      const btn = e.target.querySelector('.form-submit');
-      btn.innerHTML = '<i class="fa-solid fa-circle-check"></i> Anfrage gesendet – wir melden uns!';
-      btn.style.background = 'var(--brand)';
-      btn.disabled = true;
-      return true; // allow form submit
-    }
   </script>
 
 </body>
