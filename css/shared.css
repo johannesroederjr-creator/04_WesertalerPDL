@@ -200,3 +200,94 @@ a { color: inherit; text-decoration: none; }
   .footer-grid { grid-template-columns: 1fr; gap: 28px; }
   .page-header { padding: 100px 0 40px; }
 }
+
+/* Cookie-Banner – Wesertaler PDL */
+.cookie-banner {
+  position: fixed; inset: auto 0 0 0; z-index: 99999;
+  padding: 1rem clamp(1rem, 3vw, 2rem);
+  background: rgba(13, 61, 34, .97);
+  border-top: 1px solid rgba(255, 255, 255, .12);
+  box-shadow: 0 -8px 32px rgba(0, 0, 0, .25);
+  transform: translateY(110%);
+  transition: transform .35s ease;
+}
+.cookie-banner.visible { transform: translateY(0); }
+.cookie-banner-inner {
+  max-width: 1160px; margin: 0 auto;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.5rem;
+}
+.cookie-banner-text {
+  flex: 1 1 280px; margin: 0; color: rgba(255, 255, 255, .82);
+  font-size: .88rem; line-height: 1.55;
+}
+.cookie-banner-text a { color: #fff; font-weight: 700; text-decoration: underline; }
+.cookie-banner-actions { display: flex; flex-wrap: wrap; gap: .55rem; flex: 0 1 auto; }
+.cookie-btn {
+  font: inherit; font-size: .88rem; font-weight: 700;
+  padding: .55rem 1.1rem; border-radius: 6px; cursor: pointer;
+  border: 1px solid transparent;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.cookie-btn-accept { background: #248000; color: #fff; border-color: #248000; }
+.cookie-btn-accept:hover { background: #2e9158; border-color: #2e9158; }
+.cookie-btn-essential {
+  background: transparent; color: rgba(255, 255, 255, .9);
+  border-color: rgba(255, 255, 255, .35);
+}
+.cookie-btn-essential:hover { background: rgba(255, 255, 255, .08); }
+.cookie-btn-settings {
+  background: transparent; color: rgba(255, 255, 255, .65);
+  border-color: transparent; text-decoration: underline;
+}
+.cookie-btn-settings:hover { color: #fff; }
+.cookie-modal-overlay {
+  position: fixed; inset: 0; z-index: 100000;
+  display: grid; place-items: center; padding: 1rem;
+  background: rgba(13, 61, 34, .55);
+  opacity: 0; visibility: hidden; transition: opacity .25s, visibility .25s;
+}
+.cookie-modal-overlay.visible { opacity: 1; visibility: visible; }
+.cookie-modal {
+  width: min(100%, 520px); max-height: min(90vh, 640px); overflow: auto;
+  background: #fff; border-radius: 16px; padding: clamp(1.25rem, 3vw, 1.75rem);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, .14); border-top: 4px solid #248000;
+}
+.cookie-modal h3 {
+  margin: 0 0 .65em; font-size: 1.15rem; color: #0d3d22;
+  font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif;
+}
+.cookie-modal > p { color: #4b5563; font-size: .88rem; margin-bottom: 1.25rem; line-height: 1.6; }
+.cookie-category {
+  border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem 1.1rem; margin-bottom: .85rem;
+}
+.cookie-category-header {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: .45rem;
+}
+.cookie-category-name { font-weight: 700; color: #111827; font-size: .88rem; }
+.cookie-category-desc { margin: 0; font-size: .84rem; color: #4b5563; line-height: 1.5; }
+.cookie-toggle { position: relative; display: inline-block; width: 44px; height: 24px; flex-shrink: 0; }
+.cookie-toggle input { opacity: 0; width: 0; height: 0; position: absolute; }
+.cookie-toggle-slider {
+  position: absolute; inset: 0; cursor: pointer; border-radius: 999px;
+  background: #e5e7eb; transition: background .2s;
+}
+.cookie-toggle-slider::before {
+  content: ''; position: absolute; width: 18px; height: 18px; left: 3px; top: 3px;
+  background: #fff; border-radius: 50%; transition: transform .2s;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+}
+.cookie-toggle input:checked + .cookie-toggle-slider { background: #248000; }
+.cookie-toggle input:checked + .cookie-toggle-slider::before { transform: translateX(20px); }
+.cookie-toggle input:disabled + .cookie-toggle-slider { opacity: .75; cursor: not-allowed; }
+.cookie-modal-actions {
+  display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .55rem; margin-top: 1.25rem;
+}
+.cookie-settings-section {
+  margin-top: 2rem; padding: 1.25rem 1.5rem;
+  background: #edf7f1; border: 1px solid #d4eddc; border-radius: 10px;
+}
+.cookie-settings-section h2 { margin-top: 0; font-size: 1rem; color: #0d3d22; }
+@media (max-width: 560px) {
+  .cookie-banner-actions { width: 100%; }
+  .cookie-banner-actions .cookie-btn { flex: 1 1 auto; text-align: center; }
+}
