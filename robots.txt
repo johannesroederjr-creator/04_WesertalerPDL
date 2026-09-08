@@ -1,0 +1,26 @@
+# Wesertaler Personaldienstleistungen GmbH
+# https://www.wesertaler-personaldienstleistungen.de
+
+User-agent: *
+Allow: /
+
+# KI-Crawler (ChatGPT, Google Gemini, Perplexity u. a.)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://www.wesertaler-personaldienstleistungen.de/sitemap.xml

@@ -9,10 +9,15 @@ Statische Unternehmenswebsite für die Wesertaler Personaldienstleistungen GmbH 
 ├── index.html          # Startseite
 ├── impressum.html      # Impressum
 ├── datenschutz.html    # Datenschutzerklärung
+├── robots.txt          # Crawler-Anweisungen (Google + KI-Bots)
+├── sitemap.xml         # Seitenübersicht für Suchmaschinen
+├── llms.txt            # KI-Datenblatt (ChatGPT, Perplexity & Co.)
 ├── css/
 │   └── shared.css      # Gemeinsame Styles (Navigation, Footer, Rechtstexte)
 ├── js/
 │   └── nav.js          # Mobile Navigation
+├── Doku SEO GEO/
+│   └── Wesertaler-PDL_Dokumentation-SEO-GEO.txt
 └── README.md
 ```
 
@@ -70,7 +75,7 @@ npx serve .
 - [ ] **HTTPS & Domain** – Deployment auf `www.wesertaler-personaldienstleistungen.de` konfigurieren
 - [ ] **CSS auslagern** – `index.html` enthält noch Inline-Styles; langfristig in `css/shared.css` oder `css/main.css` konsolidieren
 - [ ] **Google Web Fonts** – in Datenschutzerklärung erwähnt, auf Startseite aber nicht mehr aktiv; Text anpassen oder Fonts wieder einbinden
-- [ ] **SEO** – `sitemap.xml`, `robots.txt`, Open-Graph-Bild
+- [x] **SEO** – `sitemap.xml`, `robots.txt`, `llms.txt` (KI-Sichtbarkeit)
 - [ ] **Barrierefreiheit prüfen** – Kontraste, Tastaturbedienung, Alt-Texte aller Bilder
 
 ### Optional / Nice-to-have

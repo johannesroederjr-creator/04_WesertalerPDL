@@ -1,0 +1,377 @@
+================================================================================
+  DOKUMENTATION: SEO & GEO-OPTIMIERUNG
+  Wesertaler Personaldienstleistungen GmbH – Website
+================================================================================
+
+Stand: September 2026
+Website: www.wesertaler-personaldienstleistungen.de
+Projektordner: 04_WesertalerPDL
+
+Diese Datei erklärt in einfachen Worten, was SEO und GEO bedeuten und welche
+Maßnahmen an der Website umgesetzt wurden. Sie können dieses Dokument an
+Dienstleister, Agenturen oder Mitarbeiter weitergeben.
+
+
+================================================================================
+TEIL 1: GRUNDLAGEN – WAS BEDEUTET DAS?
+================================================================================
+
+SEO (Search Engine Optimization = Suchmaschinenoptimierung)
+----------------------------------------------------------
+SEO bedeutet: Die Website so vorbereiten, dass Google & Co. verstehen,
+WORUM es auf der Seite geht und WER die Zielgruppe ist.
+
+Ziel: Wenn jemand z. B. „Zeitarbeit Kassel" oder „Personaldienstleister
+Nordhessen" googelt, soll die Website möglichst weit oben erscheinen.
+
+SEO passiert größtenteils im Hintergrund – Besucher sehen davon wenig,
+Google liest aber technische und inhaltliche Signale aus dem Code und Text.
+
+
+GEO (Geografische / Lokale Optimierung)
+---------------------------------------
+GEO (hier: lokales SEO) bedeutet: Google soll wissen, WO das Unternehmen
+tätig ist und WELCHE Regionen bedient werden.
+
+Für Wesertaler PDL besonders wichtig, weil Kunden regional suchen:
+„Zeitarbeit Weserbergland", „Leiharbeiter Nordhessen", „Personaldienst
+Kassel" usw.
+
+Je klarer Region und Einsatzgebiet auf der Website stehen, desto besser
+kann Google die Seite passenden Suchenden in der Nähe anzeigen.
+
+
+KI-SICHTBARKEIT (ChatGPT, Google AI, Perplexity & Co.)
+-------------------------------------------------------
+Immer mehr Menschen fragen nicht mehr nur Google, sondern KI-Assistenten:
+„Wer macht Zeitarbeit in Kassel?" oder „Personaldienstleister Nordhessen?"
+
+KI-Systeme lesen – ähnlich wie Google – öffentliche Websites und können
+Unternehmen in Antworten empfehlen oder zitieren. Das ist keine Garantie,
+aber gute Vorbereitung erhöht die Chance.
+
+Dafür wurden zusätzlich drei Dateien angelegt:
+  · robots.txt   → Erlaubnis für Suchmaschinen und KI-Crawler
+  · sitemap.xml  → Übersicht aller Seiten für Crawler
+  · llms.txt     → Kurz-Datenblatt speziell für KI-Modelle
+
+================================================================================
+TEIL 2: WELCHE SUCHEWÖRTER (KEYWORDS) WURDEN BERÜCKSICHTIGT?
+================================================================================
+
+Aus dem Briefing wurden folgende Schwerpunkte abgeleitet:
+
+  Hauptregionen:
+    · Weserbergland
+    · Nordhessen
+
+  Leistung:
+    · Zeitarbeit / Arbeitnehmerüberlassung
+    · Produktion & Logistik
+    · Leiharbeit Industrie
+
+  Beispiel-Städte im Einsatzgebiet (75 km um Wesertal):
+    · Kassel
+    · Göttingen
+    · Hann. Münden
+    · Hofgeismar
+    · Höxter
+    · Holzminden
+
+  Markenbegriff:
+    · Wesertaler PDL / Wesertaler Personaldienstleistungen
+
+
+================================================================================
+TEIL 3: WAS WURDE KONKRET UMGESETZT?
+================================================================================
+
+Die Maßnahmen sind bewusst „Quick Wins" – also sinnvolle Verbesserungen
+ohne das Design oder den Seitenaufbau grundlegend zu verändern.
+
+
+A) TITLE-TAG (Seitentitel im Browser-Tab & in Google)
+-----------------------------------------------------
+  VORHER (sinngemäß):
+    Zeitarbeit Wesertal – Wesertaler Personaldienstleistungen GmbH
+
+  NACHHER:
+    Zeitarbeit Weserbergland & Nordhessen | Wesertaler PDL
+
+  WARUM:
+    Der Title ist einer der wichtigsten Faktoren für Google. „Weserbergland"
+    und „Nordhessen" treffen besser, wonach potenzielle Kunden in der Region
+    suchen, als nur der Ortsname „Wesertal".
+
+
+B) META-DESCRIPTION (Kurzbeschreibung in Google-Suchergebnissen)
+----------------------------------------------------------------
+  NACHHER (Auszug):
+    Arbeitnehmerüberlassung für Produktion & Logistik im Weserbergland
+    und Nordhessen. Direkt zur Geschäftsführung – ab 4 Personen,
+    2–3 Wochen Anlauf. ☎ 05574 9459062
+
+  WARUM:
+    Dieser Text erscheint oft als graue Vorschau unter dem blauen Link in
+    Google. Er soll zum Klicken animieren und die wichtigsten Vorteile +
+    Telefonnummer enthalten.
+
+
+C) ÜBERSCHRIFT H1 (Hauptüberschrift oben auf der Startseite)
+------------------------------------------------------------
+  VORHER (sinngemäß):
+    Zuverlässige Arbeitskräfte für Ihre Produktion.
+
+  NACHHER:
+    Zeitarbeit für Ihre Produktion.
+    Zuverlässig. Direkt. Persönlich.
+
+  WARUM:
+    Google wertet die H1 als wichtigstes Überschriften-Signal. Das Wort
+    „Zeitarbeit" steht jetzt direkt in der Hauptüberschrift – ohne den
+    Marketing-Charakter der Seite zu verlieren.
+
+
+D) HERO-BADGE (grüner Hinweis-Balken unter der Navigation)
+----------------------------------------------------------
+  NACHHER:
+    Zeitarbeit · Weserbergland & Nordhessen · seit 2018
+
+  WARUM:
+    Ergänzt die H1 mit Region und Leistung – für Besucher und Suchmaschinen
+    auf einen Blick erkennbar.
+
+
+E) FAQ-BEREICH – STÄDTE IM EINSATZGEBIET
+---------------------------------------
+  Im Abschnitt „Wie weit ist Ihr Einsatzgebiet?" wurden konkrete Städte
+  ergänzt: Kassel, Göttingen, Hann. Münden, Hofgeismar, Höxter, Holzminden.
+
+  WARUM:
+    Google kann so besser zuordnen, in welchen Orten Wesertaler PDL aktiv ist.
+    Auch Besucher aus diesen Städten erkennen sich wieder.
+
+
+F) HERO-BILD – BESCHREIBUNG FÜR SUCHMASCHINEN
+---------------------------------------------
+  Das große Hintergrundbild oben hat eine unsichtbare Beschreibung
+  (aria-label):
+    „Zeitarbeit Produktion Weserbergland – Wesertaler Personaldienstleistungen"
+
+  WARUM:
+    Bilder allein kann Google nicht „lesen". Eine Beschreibung hilft bei
+    Barrierefreiheit und liefert zusätzliche Keyword-Signale.
+
+
+G) CANONICAL-LINK (Eindeutige Haupt-Adresse der Seite)
+------------------------------------------------------
+  Hinterlegt:
+    https://www.wesertaler-personaldienstleistungen.de/
+
+  WARUM:
+    Sagt Google: „Das ist die offizielle Version dieser Seite." Verhindert
+    Probleme, wenn die Seite unter mehreren URLs erreichbar wäre.
+
+
+H) OPEN-GRAPH-TAGS (Vorschau bei Facebook, WhatsApp, LinkedIn)
+--------------------------------------------------------------
+  Ergänzt u. a.:
+    · og:title (Titel bei geteilten Links)
+    · og:description (Kurztext)
+    · og:image (Logo als Vorschaubild)
+    · og:url (Adresse der Website)
+
+  WARUM:
+    Wenn jemand die Website-Link teilt, erscheint eine ansprechende
+    Vorschau mit Logo und Text – nicht nur eine nackte URL.
+
+
+I) STRUKTURIERTE DATEN (Schema.org / JSON-LD)
+---------------------------------------------
+  Im Quellcode der Startseite sind maschinenlesbare Firmendaten hinterlegt:
+
+  1. LocalBusiness (Lokales Unternehmen)
+     · Firmenname, Adresse, Telefon, E-Mail
+     · Gründungsjahr 2018
+     · Geo-Koordinaten des Standorts Wesertal
+     · Einsatzradius 75 km
+
+  2. Person (Michael Uhde)
+     · Name, Rolle: Geschäftsführer, Kontaktdaten
+
+  3. FAQPage (Häufige Fragen)
+     · Alle 7 FAQ-Fragen und Antworten der Website
+
+  WARUM:
+    Google kann diese Daten direkt auslesen – z. B. für FAQ-Einträge in
+    den Suchergebnissen („Rich Snippets") oder für lokale Unternehmens-
+    Einträge. Das ist reine Hintergrund-Technik, sichtbar nur indirekt.
+
+
+J) ROBOTS.TXT (Anweisungen für Suchmaschinen & KI-Crawler)
+----------------------------------------------------------
+  Datei: robots.txt (im Hauptverzeichnis der Website)
+
+  INHALT (sinngemäß):
+    · Allgemeine Erlaubnis: Alle Seiten dürfen gelesen werden
+    · Explizite Erlaubnis für KI-Crawler (GPTBot, Google-Extended,
+      ClaudeBot, PerplexityBot u. a.)
+    · Verweis auf die Sitemap
+
+  WARUM:
+    robots.txt ist die „Eingangstür" für Crawler. Sie sagt: „Ja, ihr dürft
+    diese Website lesen und indexieren." Ohne diese Datei ist das meist
+    auch möglich – mit ihr ist es aber klarer und professioneller.
+    Die explizite KI-Freigabe erhöht die Chance, dass ChatGPT & Co. die
+    Inhalte beim Training bzw. bei Live-Suchen berücksichtigen.
+
+
+K) SITEMAP.XML (Seitenübersicht für Google & KI)
+------------------------------------------------
+  Datei: sitemap.xml (im Hauptverzeichnis der Website)
+
+  ENTHÄLT:
+    · Startseite (index.html)
+    · Impressum (impressum.html)
+    · Datenschutz (datenschutz.html)
+
+  WARUM:
+    Eine Sitemap ist wie ein Inhaltsverzeichnis für Suchmaschinen. Google
+    und andere Systeme finden so schneller alle Unterseiten – auch wenn
+    sie weniger oft verlinkt sind (z. B. Impressum).
+
+
+L) LLMS.TXT (Datenblatt speziell für KI-Modelle)
+------------------------------------------------
+  Datei: llms.txt (im Hauptverzeichnis der Website)
+  Erreichbar unter: www.wesertaler-personaldienstleistungen.de/llms.txt
+
+  INHALT (Kurzfassung):
+    · Wer ist Wesertaler PDL?
+    · Was wird angeboten (Zeitarbeit, Region, Einsatzgröße)?
+    · USPs (Direktkontakt GF, kein Callcenter, AÜG-Erlaubnis …)
+    · Kontaktdaten und Ansprechpartner
+    · Häufige Fragen in Kurzform
+    · Links zu den wichtigsten Seiten
+
+  WARUM:
+    llms.txt ist ein neuer, freiwilliger Standard (ähnlich wie robots.txt,
+    aber speziell für KI). Er gibt KI-Modellen auf einen Blick alle
+    wichtigen Fakten – ohne dass sie die ganze Website analysieren müssen.
+    Wenn jemand ChatGPT fragt: „Zeitarbeit Weserbergland empfehlung?",
+    kann dieses Datenblatt helfen, Wesertaler PDL korrekt einzuordnen.
+
+  HINWEIS:
+    Auch mit llms.txt gibt es KEINE Garantie für Erwähnung in KI-Antworten.
+    Es verbessert aber die technische Vorbereitung deutlich.
+
+
+================================================================================
+TEIL 4: ÜBERSCHRIFTEN-STRUKTUR (FÜR TECHNIK-INTERESSIERTE)
+================================================================================
+
+  H1  = 1× pro Seite (Hauptthema)     → „Zeitarbeit für Ihre Produktion"
+  H2  = Abschnittsüberschriften       → Leistungen, Team, FAQ, Kontakt …
+  H3  = Unterpunkte                   → z. B. Leistungskarten, Team-Namen
+
+  Diese Struktur ist sauber und entspricht den Google-Empfehlungen.
+
+
+================================================================================
+TEIL 5: WAS WURDE BEWUSST NICHT GEÄNDERT?
+================================================================================
+
+  · Das grundlegende Design und Layout der Seite
+  · Die Anzahl und Reihenfolge der Hauptabschnitte
+  · Keine separaten Unterseiten pro Stadt (z. B. /zeitarbeit-kassel)
+    → Das wäre ein größeres Projekt für später
+
+  Der Kunde soll die gewohnte Website wiedererkennen – die Optimierung
+  läuft überwiegend unsichtbar im Hintergrund.
+
+
+================================================================================
+TEIL 6: WAS KANN NOCH FOLGEN? (OPTIONAL, NICHT UMGESETZT)
+================================================================================
+
+  Für zukünftige Dienstleister / Agenturen:
+
+  [ ] Regionale Landingpages (eine Seite pro Stadt, z. B. Kassel, Göttingen)
+  [ ] Google Business Profile optimieren und mit Website verknüpfen
+  [ ] Echte Referenzen mit Kundenfreigabe statt anonymisierter Zitate
+  [ ] Eigene Fotos statt Unsplash-Platzhalter (Hero, Produktion)
+  [x] sitemap.xml und robots.txt angelegt
+  [x] llms.txt für KI-Sichtbarkeit angelegt
+  [ ] Impressum rechtlich vervollständigen (Handelsregister, USt-IdNr.)
+  [ ] Datenschutzerklärung rechtlich prüfen lassen
+  [ ] Seite „AÜG-Erlaubnis" erstellen (Footer-Link existiert bereits)
+  [ ] Regelmäßige SEO-Auswertung über Google Search Console
+
+
+================================================================================
+TEIL 7: KURZ-ZUSAMMENFASSUNG FÜR DEN KUNDEN
+================================================================================
+
+  Was wurde gemacht?
+  ------------------
+  Die Website wurde für Google und regionale Suche vorbereitet – ohne
+  dass sie für Besucher „fremd" wirkt. Schwerpunkte:
+
+    ✓ Bessere Sichtbarkeit für „Zeitarbeit" in Weserbergland & Nordhessen
+    ✓ Klare regionale Zuordnung (Städte, 75-km-Radius)
+    ✓ Technische Firmendaten für Google hinterlegt
+    ✓ Alle FAQ-Fragen für Google maschinenlesbar gemacht
+    ✓ Social-Media-Vorschau beim Link-Teilen (Logo + Text)
+    ✓ robots.txt – Crawler- und KI-Freigabe
+    ✓ sitemap.xml – Seitenübersicht für Google
+    ✓ llms.txt – KI-Datenblatt für ChatGPT, Perplexity & Co.
+
+  Was der Kunde selbst tun kann:
+  ------------------------------
+    · Google Business Profile pflegen (Adresse, Telefon, Fotos, Bewertungen)
+    · Website-Link in E-Mail-Signatur und auf Briefpapier verwenden
+    · Bei Google Search Console die Website anmelden und sitemap.xml einreichen
+      (URL: https://www.wesertaler-personaldienstleistungen.de/sitemap.xml)
+    · Nach 3–6 Monaten Ranking-Entwicklung prüfen lassen
+
+  Realistische Erwartung bei KI (ChatGPT & Co.):
+  ----------------------------------------------
+    Die Website ist technisch gut vorbereitet, damit KI-Systeme verstehen,
+    was Wesertaler PDL macht. Ob man konkret empfohlen wird, hängt auch
+    von Bekanntheit, Bewertungen und Wettbewerb ab – das ist keine Garantie.
+
+
+================================================================================
+TEIL 8: TECHNISCHE REFERENZ (FÜR DIENSTLEISTER)
+================================================================================
+
+  Geänderte / neue Dateien:
+    index.html      → Startseite (SEO-Meta, Schema, Sitemap-Verweis)
+    robots.txt      → Crawler-Anweisungen inkl. KI-Bots
+    sitemap.xml     → Seitenübersicht
+    llms.txt        → KI-Datenblatt
+
+  Relevante Bereiche im Quellcode:
+    · <head>           → Title, Meta Description, Canonical, Open Graph
+    · JSON-LD Block    → LocalBusiness, Person, FAQPage (Schema.org)
+    · Hero-Section     → H1, Badge, aria-label am Hintergrundbild
+    · FAQ-Section      → Einsatzgebiet-Text mit Städteliste
+
+  Root-Dateien (nach Deployment erreichbar unter):
+    · /robots.txt
+    · /sitemap.xml
+    · /llms.txt
+
+  Briefing-Grundlage:
+    Briefing_Wesertaler-PDL_Website.md (Keyword-Konzept, Abschnitt 11)
+
+  Weitere Projekt-Doku:
+    README.md (offene Punkte, technischer Gesamtstand)
+
+
+================================================================================
+  Ende der Dokumentation
+================================================================================
+
+Bei Fragen zu einzelnen Punkten kann jeder Web-Dienstleister anhand der
+Datei index.html die umgesetzten Maßnahmen im Quellcode nachvollziehen.
