@@ -13,7 +13,7 @@
 | **Kurzform** | Wesertaler PDL |
 | **Branche** | Zeitarbeit / Arbeitnehmerüberlassung (AÜG) |
 | **Sitz** | Bremer Str. 4, 34399 Wesertal |
-| **Gegründet** | 2018 (als GmbH) |
+| **Gegründet** | 2020 (als GmbH) |
 | **Einsatzgebiet** | ca. 75 km Radius um Wesertal → Weserbergland & Nordhessen (u. a. Kassel, Göttingen, Hann. Münden, Hofgeismar, Bad Karlshafen, Uslar, Holzminden, Höxter) |
 | **Website (aktuell)** | wesertaler-personaldienstleistungen.de |
 
@@ -70,7 +70,7 @@
 - Motivierte, stabile Teams mit geringer Fluktuation
 - Vollständige Infrastruktur aus einer Hand (Unterkunft, Transport, Dolmetscher)
 - Ehrlichkeit & Transparenz statt leerer Versprechen
-- Kennzahlen: seit 2018 als GmbH · 75 km Einsatzradius · ab 4 Personen pro Einsatz · 2–3 Wochen Anlaufzeit
+- Kennzahlen: seit 2020 als GmbH · 75 km Einsatzradius · ab 4 Personen pro Einsatz · 2–3 Wochen Anlaufzeit
 
 ---
 
@@ -79,8 +79,8 @@
 | Name | Rolle | Aufgaben | Qualifikationen | Kontakt |
 |---|---|---|---|---|
 | **Michael Uhde** | Geschäftsführer | Personaldisposition, Vertrieb, Akquise, Kundenbetreuung | Industriemeister Chemie (IHK), Ausbilder Gabelstapler (FKAB32), Ausbilder Hubarbeitsbühnen, Ausbilder Teleskoplader, Ausbilder Ladungssicherung | 05574 9459062 · m.uhde@wesertaler-personaldienstleistungen.de |
-| **Markus Westermann** | Geschäftsführer | Buchhaltung, Finanzbuchhaltung, Lohnbuchhaltung | Diplom-Finanzwirt | 05574 9459084 · buchhaltung@wesertaler-personaldienstleistungen.de |
-| **Liviu-Ionut Tudor** | Projektleiter | Personaldisposition, Kundenbetreuung | Dolmetscher Rumänisch/Deutsch, Ausbilder Staplerfahrer (FKAB32) | — |
+| **Markus Westermann** | Geschäftsführer | Buchhaltung, Finanzbuchhaltung, Lohnbuchhaltung | Diplom-Finanzwirt | 05574 9459082 · 0176 61486195 · buchhaltung@wesertaler-personaldienstleistungen.de |
+| **Liviu-Ionut Tudor** | Projektleiter | Personaldisposition, Kundenbetreuung | Dolmetscher Rumänisch/Deutsch, Ausbilder Staplerfahrer (FKAB32) | 0171 6425527 · l.tudor@wesertaler-personaldienstleistungen.de |
 
 ---
 
@@ -88,7 +88,7 @@
 
 - **Adresse:** Bremer Str. 4, 34399 Wesertal
 - **Vertrieb:** 05574 9459062 · m.uhde@wesertaler-personaldienstleistungen.de
-- **Buchhaltung:** 05574 9459084 · buchhaltung@wesertaler-personaldienstleistungen.de
+- **Buchhaltung:** 05574 9459082 · 0176 61486195 · buchhaltung@wesertaler-personaldienstleistungen.de
 - **Einsatzgebiet:** ca. 75 km um Wesertal, Schwerpunkt Weserbergland & Nordhessen
 
 ---

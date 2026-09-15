@@ -66,7 +66,7 @@ npx serve .
 
 ### Inhalte & Texte
 
-- [ ] **Kontaktdaten Liviu-Ionut Tudor** – Telefon/E-Mail für Team-Karte ergänzen
+- [x] **Kontaktdaten Liviu-Ionut Tudor** – Telefon/E-Mail für Team-Karte ergänzen
 - [ ] **Referenzen** – aktuell anonymisierte Platzhalter-Zitate; echte Kundenstimmen oder Freigaben klären
 - [ ] **Branchen-Referenzen** – konkrete Firmennamen nur mit schriftlicher Freigabe
 - [ ] **Schema.org-Daten** – Michael-Uhde-Jobtitel in JSON-LD ggf. an neue Team-Texte anpassen

@@ -135,7 +135,7 @@ C) ÜBERSCHRIFT H1 (Hauptüberschrift oben auf der Startseite)
 D) HERO-BADGE (grüner Hinweis-Balken unter der Navigation)
 ----------------------------------------------------------
   NACHHER:
-    Zeitarbeit · Weserbergland & Nordhessen · seit 2018
+    Zeitarbeit · Weserbergland & Nordhessen · seit 2020
 
   WARUM:
     Ergänzt die H1 mit Region und Leistung – für Besucher und Suchmaschinen
@@ -192,7 +192,7 @@ I) STRUKTURIERTE DATEN (Schema.org / JSON-LD)
 
   1. LocalBusiness (Lokales Unternehmen)
      · Firmenname, Adresse, Telefon, E-Mail
-     · Gründungsjahr 2018
+     · Gründungsjahr 2020
      · Geo-Koordinaten des Standorts Wesertal
      · Einsatzradius 75 km
 

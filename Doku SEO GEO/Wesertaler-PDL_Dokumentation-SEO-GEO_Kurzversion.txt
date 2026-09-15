@@ -1,0 +1,99 @@
+================================================================================
+  SEO & GEO – Kurzübersicht für Wesertaler PDL
+  Stand: September 2026
+================================================================================
+
+
+Deine wichtigsten Suchbegriffe (Keywords)
+-----------------------------------------
+Das sind die Begriffe, nach denen potenzielle Kunden dich online suchen –
+und die wir bei der Website berücksichtigt haben:
+
+  · Zeitarbeit Weserbergland · Arbeitnehmerüberlassung Nordhessen
+  · Personaldienstleister Nordhessen · Zeitarbeitsfirma Kassel
+  · Zeitarbeit Göttingen · Leiharbeiter Produktion · Zeitarbeit Logistik
+  · Personal für Produktion · Zeitarbeitsfirma ohne Callcenter
+  · Wesertaler PDL · Wesertaler Personaldienstleistungen
+
+
+SEO – Sichtbarkeit bei Google
+-----------------------------
+SEO bedeutet: Deine Website so vorbereiten, dass Google versteht, was du
+anbietest und für wen. Ziel ist, bei passenden Suchanfragen weiter oben
+in den Google-Ergebnissen zu erscheinen.
+
+  Beispiel: Ein Produktionsleiter in Kassel googelt „Zeitarbeitsfirma Kassel
+  Produktion" – deine Website soll dabei möglichst weit oben auftauchen.
+
+  · Seitentitel: „Zeitarbeit Weserbergland & Nordhessen | Wesertaler PDL"
+  · Kurzbeschreibung in Google mit Leistung, Region und Telefonnummer
+  · Hauptüberschrift auf der Startseite: „Zeitarbeit für Ihre Produktion"
+  · FAQ nennt Städte: Kassel, Göttingen, Hann. Münden, Hofgeismar, Höxter …
+  · Firmendaten im Hintergrund für Google hinterlegt (Adresse, Telefon, FAQ)
+
+
+GEO – Regionale Auffindbarkeit
+------------------------------
+GEO bedeutet: Google soll wissen, WO du tätig bist. Viele Kunden suchen
+regional – nicht „Zeitarbeit Deutschland", sondern „Personaldienstleister
+in meiner Nähe".
+
+  Beispiel: Jemand in Göttingen sucht „Leiharbeit Produktion Nordhessen"
+  – Google kann deine Seite eher anzeigen, weil Region und Einsatzgebiet
+  klar beschrieben sind.
+
+  · Schwerpunkt: Weserbergland & Nordhessen
+  · Einsatzgebiet: ca. 75 km um Wesertal-Oedelsheim
+  · Städte im Text: Kassel, Göttingen, Hann. Münden, Hofgeismar, Höxter,
+    Holzminden, Bad Karlshafen, Uslar
+  · Standort Bremer Str. 4, 34399 Wesertal technisch hinterlegt
+
+
+KI-Sichtbarkeit (ChatGPT, Google AI, Perplexity & Co.)
+------------------------------------------------------
+Immer mehr Menschen fragen nicht mehr nur Google, sondern KI-Assistenten:
+„Wer macht Zeitarbeit in Kassel?" oder „Empfiehl mir einen
+Personaldienstleister im Weserbergland ohne Callcenter."
+
+Diese Systeme lesen – ähnlich wie Google – öffentliche Websites und
+können Unternehmen in ihren Antworten nennen. Das ist noch relativ neu
+und keine Garantie – aber wer technisch gut vorbereitet ist, hat bessere
+Chancen, korrekt gefunden und empfohlen zu werden.
+
+  Beispiel: Ein Nutzer fragt ChatGPT „Zeitarbeit Produktion Weserbergland
+  Empfehlung" – durch das KI-Datenblatt (llms.txt) kann das System auf
+  einen Blick lesen: Wer du bist, was du anbietest, wo du tätig bist
+  und wie man dich erreicht.
+
+  · llms.txt – Kurz-Datenblatt speziell für KI (Leistungen, Region, USPs,
+    Kontakt, häufige Fragen)
+  · sitemap.xml – Inhaltsverzeichnis aller Seiten für Google und KI
+  · robots.txt – ausdrückliche Freigabe, dass Suchmaschinen und KI-Crawler
+    deine Website lesen dürfen
+
+
+Cookie-Banner (DSGVO)
+---------------------
+Gesetzlich vorgeschrieben: Besucher müssen informiert werden, wenn Cookies
+oder externe Inhalte (z. B. Icons von Drittanbietern) geladen werden –
+und selbst entscheiden können.
+
+  Beispiel: Beim ersten Besuch erscheint unten ein grüner Banner mit
+  „Alle akzeptieren", „Nur notwendige" oder „Einstellungen".
+
+  · Banner erscheint beim ersten Besuch automatisch
+  · „Cookie-Einstellungen" im Footer – jederzeit änderbar
+  · Cookie-Richtlinie als eigene Seite verlinkt
+  · Kein Marketing-Tracking (kein Google Analytics o. Ä.)
+
+
+Was du selbst tun kannst
+------------------------
+  Beispiel: Dein Google-Eintrag zeigt Adresse, Öffnungszeiten, Fotos vom
+  Team und Bewertungen – und verlinkt auf deine Website.
+
+  · Google Business Profile pflegen (Adresse, Fotos, Bewertungen)
+  · Website-Link in E-Mail-Signatur und Briefpapier nutzen
+  · Nach 3–6 Monaten prüfen lassen, wie die Sichtbarkeit steht
+
+================================================================================

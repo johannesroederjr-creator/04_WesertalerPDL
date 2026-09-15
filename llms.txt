@@ -6,12 +6,13 @@
 
 - Name: Wesertaler Personaldienstleistungen GmbH (Kurzform: Wesertaler PDL)
 - Branche: Arbeitnehmerüberlassung / Zeitarbeit (AÜG)
-- Gegründet: 2018 (GmbH)
+- Gegründet: 2020 (GmbH)
 - Adresse: Bremer Str. 4, 34399 Wesertal, Deutschland
 - Website: https://www.wesertaler-personaldienstleistungen.de/
 - Telefon Vertrieb: +49 5574 9459062
 - E-Mail Vertrieb: m.uhde@wesertaler-personaldienstleistungen.de
-- Telefon Buchhaltung: +49 5574 9459084
+- Telefon Buchhaltung: +49 5574 9459082
+- Handy Buchhaltung: +49 176 61486195
 - E-Mail Buchhaltung: buchhaltung@wesertaler-personaldienstleistungen.de
 
 ## Was wir tun
@@ -42,7 +43,12 @@ Wesertaler PDL vermittelt Unternehmen aus Industrie und Logistik motivierte Arbe
 
 - Michael Uhde – Geschäftsführer (Vertrieb, Personal, Kundenbetreuung)
 - Markus Westermann – Geschäftsführer (Buchhaltung, Finanzen)
+  - Tel.: +49 5574 9459082
+  - Handy: +49 176 61486195
+  - E-Mail: buchhaltung@wesertaler-personaldienstleistungen.de
 - Liviu-Ionut Tudor – Projektleiter (Personaldisposition, Kundenbetreuung, Dolmetscher Rumänisch/Deutsch)
+  - Handy: +49 171 6425527
+  - E-Mail: l.tudor@wesertaler-personaldienstleistungen.de
 
 ## Häufige Fragen (Kurzantworten)
 

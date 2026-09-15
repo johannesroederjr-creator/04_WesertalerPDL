@@ -308,14 +308,9 @@
     /* ===== MITARBEITER ===== */
     .mitarbeiter { background: var(--white); }
     .ma-grid {
-      display: grid; grid-template-columns: 1fr 1fr;
-      gap: 60px; align-items: center;
+      display: grid; grid-template-columns: 1fr;
+      max-width: 720px; margin: 0 auto;
     }
-    .ma-img {
-      border-radius: var(--r-lg); overflow: hidden;
-      box-shadow: var(--shadow-xl);
-    }
-    .ma-img img { width: 100%; height: 430px; object-fit: cover; }
     .ma-list { list-style: none; margin-top: 28px; }
     .ma-list li {
       display: flex; align-items: flex-start; gap: 14px;
@@ -626,7 +621,7 @@
         "url": "https://www.wesertaler-personaldienstleistungen.de/",
         "telephone": "+49-5574-9459062",
         "email": "m.uhde@wesertaler-personaldienstleistungen.de",
-        "foundingDate": "2018",
+        "foundingDate": "2020",
         "description": "Arbeitnehmerüberlassung für Industrie und Logistik im Weserbergland und Nordhessen. Motivierte Teams, direkte Geschäftsführer-Betreuung, eigene Unterkunft und Transport.",
         "address": {
           "@type": "PostalAddress",
@@ -732,7 +727,7 @@
     <div class="hero-content container">
       <div class="hero-badge">
         <span class="hero-badge-dot"></span>
-        Zeitarbeit · Weserbergland &amp; Nordhessen · seit 2018
+        Zeitarbeit · Weserbergland &amp; Nordhessen · seit 2020
       </div>
       <h1>
         Zeitarbeit für <span>Ihre Produktion.</span><br>
@@ -758,7 +753,7 @@
   <div class="stats-bar">
     <div class="stats-inner">
       <div class="stat-item">
-        <span class="stat-num">seit 2018</span>
+        <span class="stat-num">seit 2020</span>
         <span class="stat-lbl">Gegründet als GmbH</span>
       </div>
       <div class="stat-item">
@@ -981,13 +976,6 @@
             </li>
           </ul>
         </div>
-        <div class="ma-img">
-          <img
-            src="https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=80"
-            alt="Motivierte Mitarbeiter bei der Arbeit in einer Produktionshalle"
-            loading="lazy"
-          >
-        </div>
       </div>
     </div>
   </section>
@@ -1061,6 +1049,14 @@
               <li>Dolmetscher Rumänisch/Deutsch</li>
               <li>Ausbilder von Staplerfahrern FKAB32</li>
             </ul>
+            <div class="t-contacts">
+              <a href="tel:+491716425527" class="t-contact">
+                <i class="fa-solid fa-phone"></i> 0171 6425527
+              </a>
+              <a href="mailto:l.tudor@wesertaler-personaldienstleistungen.de" class="t-contact">
+                <i class="fa-solid fa-envelope"></i> l.tudor@wesertaler-pd...
+              </a>
+            </div>
           </div>
         </div>
 
@@ -1086,8 +1082,11 @@
               <li>Diplom-Finanzwirt</li>
             </ul>
             <div class="t-contacts">
-              <a href="tel:+4955749459084" class="t-contact">
-                <i class="fa-solid fa-phone"></i> 05574 9459084
+              <a href="tel:+4955749459082" class="t-contact">
+                <i class="fa-solid fa-phone"></i> 05574 9459082
+              </a>
+              <a href="tel:+4917661486195" class="t-contact">
+                <i class="fa-solid fa-mobile-screen"></i> 0176 61486195
               </a>
               <a href="mailto:buchhaltung@wesertaler-personaldienstleistungen.de" class="t-contact">
                 <i class="fa-solid fa-envelope"></i> buchhaltung@wesertaler-pd...
@@ -1298,7 +1297,8 @@
               <div class="k-item-icon"><i class="fa-solid fa-calculator"></i></div>
               <div class="k-item-text">
                 <strong>Markus Westermann – Buchhaltung & Finanzen</strong>
-                <a href="tel:+4955749459084">05574 9459084</a><br>
+                <a href="tel:+4955749459082">05574 9459082</a><br>
+                <a href="tel:+4917661486195">0176 61486195</a><br>
                 <a href="mailto:buchhaltung@wesertaler-personaldienstleistungen.de">buchhaltung@wesertaler-personaldienstleistungen.de</a>
               </div>
             </div>
@@ -1331,7 +1331,7 @@
           <p class="footer-brand-name">Wesertaler Personaldienstleistungen GmbH</p>
           <p>
             Die regionale Alternative in der Arbeitnehmerüberlassung für Industrie 
-            und Logistik. Seit 2018 im Weserbergland. Direkt, zuverlässig, ehrlich.
+            und Logistik. Seit 2020 im Weserbergland. Direkt, zuverlässig, ehrlich.
           </p>
         </div>
         <div>

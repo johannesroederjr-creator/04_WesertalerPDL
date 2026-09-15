@@ -7,7 +7,7 @@
 **Firmenname:** Wesertaler Personaldienstleistungen GmbH  
 **Adresse:** Bremer Str. 4, 34399 Wesertal  
 **Website:** www.wesertaler-personaldienstleistungen.de  
-**Gründung:** 2018 (als GmbH)  
+**Gründung:** 2020 (als GmbH)  
 **Branche:** Arbeitnehmerüberlassung / Zeitarbeit / Leiharbeit
 
 ---
@@ -26,7 +26,8 @@
 
 ### Markus Westermann – Geschäftsführer Buchhaltung & Finanzen
 - Studierter Buchhalter
-- Telefon: 05574 9459084
+- Telefon: 05574 9459082
+- Handy: 0176 61486195
 - E-Mail: buchhaltung@wesertaler-personaldienstleistungen.de
 
 ---
