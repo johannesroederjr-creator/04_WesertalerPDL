@@ -74,7 +74,7 @@ npx serve .
 ### Technik & Deployment
 
 - [x] **Kontaktformular entfernt** – Kontakt nur noch per Telefon/E-Mail
-- [ ] **URL-Weiterleitungen** – alte URLs `/privacy` → `/datenschutz.html` und `/impressum` → `/impressum.html` auf dem Server einrichten
+- [x] **URL-Weiterleitungen** – Redirect-Stubs für alte URLs (`/ueber-uns`, `/privacy`, `/kontakt`, `/team`, `/impressum/`) + `404.html`-Fallback
 - [ ] **HTTPS & Domain** – Deployment auf `www.wesertaler-personaldienstleistungen.de` konfigurieren
 - [ ] **CSS auslagern** – `index.html` enthält noch Inline-Styles; langfristig in `css/shared.css` oder `css/main.css` konsolidieren
 - [ ] **Google Web Fonts** – in Datenschutzerklärung erwähnt, auf Startseite aber nicht mehr aktiv; Text anpassen oder Fonts wieder einbinden

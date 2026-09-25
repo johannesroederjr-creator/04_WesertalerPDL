@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>Seite nicht gefunden – Wesertaler PDL</title>
+  <script>
+    (function () {
+      var redirects = {
+        '/ueber-uns': '/index.html#team',
+        '/uber-uns': '/index.html#team',
+        '/about': '/index.html#team',
+        '/about-us': '/index.html#team',
+        '/privacy': '/datenschutz.html',
+        '/kontakt': '/index.html#kontakt',
+        '/contact': '/index.html#kontakt',
+        '/team': '/index.html#team',
+        '/impressum': '/impressum.html'
+      };
+
+      var path = window.location.pathname.replace(/\/index\.html$/, '').replace(/\/$/, '') || '/';
+      var target = redirects[path];
+
+      if (target) {
+        window.location.replace(target);
+        return;
+      }
+    })();
+  </script>
+</head>
+<body>
+  <h1>Seite nicht gefunden</h1>
+  <p>Die angeforderte Seite existiert nicht mehr oder wurde verschoben.</p>
+  <p><a href="index.html">Zur Startseite</a></p>
+</body>
+</html>
