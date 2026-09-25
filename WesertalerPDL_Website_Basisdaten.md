@@ -22,6 +22,7 @@
 - Energieauditor ISO 50001
 - Ehemals selbst als Leiharbeiter tätig (2006–2011)
 - Telefon: 05574 9459062
+- Handy: 0172 5873713
 - E-Mail: m.uhde@wesertaler-personaldienstleistungen.de
 
 ### Markus Westermann – Geschäftsführer Buchhaltung & Finanzen

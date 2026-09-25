@@ -10,6 +10,7 @@
 - Adresse: Bremer Str. 4, 34399 Wesertal, Deutschland
 - Website: https://www.wesertaler-personaldienstleistungen.de/
 - Telefon Vertrieb: +49 5574 9459062
+- Handy Vertrieb: +49 172 5873713
 - E-Mail Vertrieb: m.uhde@wesertaler-personaldienstleistungen.de
 - Telefon Buchhaltung: +49 5574 9459082
 - Handy Buchhaltung: +49 176 61486195
@@ -42,6 +43,9 @@ Wesertaler PDL vermittelt Unternehmen aus Industrie und Logistik motivierte Arbe
 ## Ansprechpartner
 
 - Michael Uhde – Geschäftsführer (Vertrieb, Personal, Kundenbetreuung)
+  - Tel.: +49 5574 9459062
+  - Handy: +49 172 5873713
+  - E-Mail: m.uhde@wesertaler-personaldienstleistungen.de
 - Markus Westermann – Geschäftsführer (Buchhaltung, Finanzen)
   - Tel.: +49 5574 9459082
   - Handy: +49 176 61486195

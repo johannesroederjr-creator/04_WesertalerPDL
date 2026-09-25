@@ -78,7 +78,7 @@
 
 | Name | Rolle | Aufgaben | Qualifikationen | Kontakt |
 |---|---|---|---|---|
-| **Michael Uhde** | Geschäftsführer | Personaldisposition, Vertrieb, Akquise, Kundenbetreuung | Industriemeister Chemie (IHK), Ausbilder Gabelstapler (FKAB32), Ausbilder Hubarbeitsbühnen, Ausbilder Teleskoplader, Ausbilder Ladungssicherung | 05574 9459062 · m.uhde@wesertaler-personaldienstleistungen.de |
+| **Michael Uhde** | Geschäftsführer | Personaldisposition, Vertrieb, Akquise, Kundenbetreuung | Industriemeister Chemie (IHK), Ausbilder Gabelstapler (FKAB32), Ausbilder Hubarbeitsbühnen, Ausbilder Teleskoplader, Ausbilder Ladungssicherung | 05574 9459062 · 0172 5873713 · m.uhde@wesertaler-personaldienstleistungen.de |
 | **Markus Westermann** | Geschäftsführer | Buchhaltung, Finanzbuchhaltung, Lohnbuchhaltung | Diplom-Finanzwirt | 05574 9459082 · 0176 61486195 · buchhaltung@wesertaler-personaldienstleistungen.de |
 | **Liviu-Ionut Tudor** | Projektleiter | Personaldisposition, Kundenbetreuung | Dolmetscher Rumänisch/Deutsch, Ausbilder Staplerfahrer (FKAB32) | 0171 6425527 · l.tudor@wesertaler-personaldienstleistungen.de |
 
@@ -87,7 +87,7 @@
 ## 7. Kontakt & Standort
 
 - **Adresse:** Bremer Str. 4, 34399 Wesertal
-- **Vertrieb:** 05574 9459062 · m.uhde@wesertaler-personaldienstleistungen.de
+- **Vertrieb:** 05574 9459062 · 0172 5873713 · m.uhde@wesertaler-personaldienstleistungen.de
 - **Buchhaltung:** 05574 9459082 · 0176 61486195 · buchhaltung@wesertaler-personaldienstleistungen.de
 - **Einsatzgebiet:** ca. 75 km um Wesertal, Schwerpunkt Weserbergland & Nordhessen
 
